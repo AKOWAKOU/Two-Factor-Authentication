@@ -1,0 +1,9 @@
+{% extends "_base.html" %}
+{% block content %}
+
+<div class="alert alert-success text-center mt-5" role="alert">
+    <h1 class="display-4">Bienvenue, <span class="badge bg-primary">{{ current_user.username }}</span>!</h1>
+    <p class="lead">Nous sommes ravis de vous revoir sur l'application d'authentification a double factor securisé.</p>
+</div>
+
+{% endblock %}
