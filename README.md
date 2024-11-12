@@ -1,5 +1,5 @@
 ## Setup
-    git clone 
+    git clone git@github.com:AKOWAKOU/Two-Factor-Authentication.git
 
 ## Env active environment virtual
     python -m venv venv
