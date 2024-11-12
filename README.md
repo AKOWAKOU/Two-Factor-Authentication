@@ -29,7 +29,7 @@ python manage.py run
 ![Profil Utilisateur](images/1.png)
 
 ### Page de Profil Utilisateur
-![Profil Utilisateur](2.png)
+![Profil Utilisateur](images/2.png)
 
 
 ### Page de Profil Utilisateur
